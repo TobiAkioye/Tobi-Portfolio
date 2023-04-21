@@ -1,5 +1,3 @@
-# Tobi's Portfolio 
-
 ## [NETFLIX DASHBOARD](https://public.tableau.com/app/profile/oluwatobi.akioye/viz/NetflixDashboard_16817672888930/Dashboard1)
 1.	Cleaned and analyzed a Netflix’s data using Excel and SQL.
 2. 	Created an interactive dashboard in Tableau that describes TV shows and movies with their duration, ratings, genre and description
