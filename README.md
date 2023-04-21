@@ -11,11 +11,11 @@
 3.	Provided technical insights on how the convert casual members to annual users using marketing strategies
 
 ## [BIKE SALES DASHBOARD]()
-●	Utilized Excel to analyze 1000 random adults and gain insights on what triggers users to buy a bike
-●	Implemented Excel functions to comb through the set of individuals and identified the key requirements 
-●	Aggregated and visualized the data by using Excel to compile a professional report
+1. Utilized Excel to analyze 1000 random adults and gain insights on what triggers users to buy a bike
+2. Implemented Excel functions to comb through the set of individuals and identified the key requirements 
+3. Aggregated and visualized the data by using Excel to compile a professional report
 
 ## [TRIP ADVISOR DASHBOARD]()
-●	Utilized SQL to analyze 100 hotels and gain insights on what triggers travelers to stay with them
-●	Built an interactive Tableau dashboard showing key metrics for customer turnover rate.
-●	Used dashboard to gain insights on how to improve hotel’s booking rate. 
+1. Utilized SQL to analyze 100 hotels and gain insights on what triggers travelers to stay with them
+2. Built an interactive Tableau dashboard showing key metrics for customer turnover rate.
+3. Used dashboard to gain insights on how to improve hotel’s booking rate. 
