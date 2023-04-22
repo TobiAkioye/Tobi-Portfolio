@@ -20,7 +20,7 @@
 1. Utilized Excel to analyze 1000 random adults and gain insights on what triggers users to buy a bike
 2. Implemented Excel functions to comb through the set of individuals and identified the key requirements 
 3. Aggregated and visualized the data by using Excel to compile a professional report
-![](image/bike%20dashboard.JPG)
+![](iamges/bike%20dashboard.JPG)
 
 ## [TRIP ADVISOR DASHBOARD](https://public.tableau.com/app/profile/oluwatobi.akioye/viz/TripAdvisor2_0/Dashboard1)
 1. Utilized SQL to analyze 100 hotels and gain insights on what triggers travelers to stay with them
