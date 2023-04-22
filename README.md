@@ -8,6 +8,8 @@
 2.	Transformed and processed client’s data by using Excel to ensure data completeness and validity
 3.	Provided technical insights on how the convert casual members to annual users using marketing strategies
 
+![alt](https://github.com/TobiAkioye/Tobi-Portfolio/blob/main/iamges/airbnb%20img.PNG)
+
 ## [BIKE SALES DASHBOARD](https://github.com/TobiAkioye/BIKE-SALES-DASHBOARD-)
 1. Utilized Excel to analyze 1000 random adults and gain insights on what triggers users to buy a bike
 2. Implemented Excel functions to comb through the set of individuals and identified the key requirements 
