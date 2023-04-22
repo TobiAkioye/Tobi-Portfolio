@@ -3,14 +3,14 @@
 2. 	Created an interactive dashboard in Tableau that describes TV shows and movies with their duration, ratings, genre and description
 3. 	Discovered insights on top performing TV shows and movies to understand where the business should focus their efforts on to improve revenue.
 
-![](https://github.com/TobiAkioye/Tobi-Portfolio/blob/main/iamges/netfliximage.png)
+[](https://github.com/TobiAkioye/Tobi-Portfolio/blob/main/iamges/netfliximage.png)
 
 ## [AIRBNB SALES DASHBOARD](https://public.tableau.com/app/profile/oluwatobi.akioye/viz/AirBnBFullProject_16811634421610/Dashboard1) 	
 1.	Created a dashboard with Tableau to help visualize the average prices for a bedroom paid by the customer 
 2.	Transformed and processed client’s data by using Excel to ensure data completeness and validity
 3.	Provided technical insights on how the convert casual members to annual users using marketing strategies
 
-![alt](https://github.com/TobiAkioye/Tobi-Portfolio/blob/main/iamges/airbnb%20img.PNG)
+[](https://github.com/TobiAkioye/Tobi-Portfolio/blob/main/iamges/airbnb%20img.PNG)
 
 ## [BIKE SALES DASHBOARD](https://github.com/TobiAkioye/BIKE-SALES-DASHBOARD-)
 1. Utilized Excel to analyze 1000 random adults and gain insights on what triggers users to buy a bike
